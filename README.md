@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Collin's homepage!
 
-You can use the [editor on GitHub](https://github.com/CollinFull/CollinFull.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is made to witness the growth of personal ability.I'd glad to invite you to join me.
 
 ### Markdown
 
