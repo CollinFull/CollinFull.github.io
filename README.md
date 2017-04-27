@@ -1,6 +1,5 @@
-## Welcome to Collin's homepage!
 
-This page is made to witness the growth of personal ability.I'd glad to invite you to join me.
+
 
 ### Markdown
 
